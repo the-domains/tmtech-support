@@ -1,0 +1,28 @@
+name: TMTech Support
+favicon: null
+layout_spectrum: 0.18699591793119907
+typography_spectrum: 0.757769798161462
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7234727975446731
+  lightness: 0.0866061164997518
+  saturation: 0.5270935343578458
+  rhythmicContrast: 0.4364915129262954
+purpose: []
